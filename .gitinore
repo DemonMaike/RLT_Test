@@ -1,0 +1,6 @@
+.env
+env/
+pyrightconfig.json
+*pycache*
+*.py[cod].
+*$py.class
